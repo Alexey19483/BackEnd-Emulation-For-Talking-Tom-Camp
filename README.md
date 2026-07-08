@@ -4,6 +4,7 @@ So,I don't know will I be able to do this or not,but I will try. I'm trying to m
 UPD1: I have some good and bad news. Good news: now I know TTC urls,and even made a stub,but it didn't help so much: "LOGIN FAILED" "message" is gone. Bad news: there's another "message now": "CONNECTION ERROR".
 
 I'm Russian btw,so if I have mistakes in text,SORRY!
+                                                                                  
                                                                                   А ТЕПЕРЬ ДЛЯ РУССКИХ:
 
 Я незнаю получится ли мне это сделать или нет,но я попробую. Я пытаюсь сделать Бэкэнд (сервер) Для Говорящий Том: Водная битва (Я буду сокращать,если что игра по другому называется Битва Тома/том водная битва ну или лагерь тома,сокращать буду как TTC). Я делаю новый бэкэнд потому что оригинальный уже выключен ( "Спасибо" , Outfit7! ). Я постараюсь сделать игры рабочей так,как она была до выключения серверов. Я попытаюсь восстановить всё: уведомления,стастика и аналитика (хз зачем), лидерборды,кланы и полную поддержку онлайна без Google. Почему без Google - потому что я хочу сделать автономность. Я не знаю когда я сделаю это,но я надеюсь что я выпущу первый прототип без всего лишнего.
