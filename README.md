@@ -10,9 +10,20 @@ I have some good and bad news. Good news: now I know TTC urls,and even made a st
 
 </details>
 
-> I'm Russian btw,so if I have mistakes in text,SORRY!
+<details>
+<summary>UPD2</summary>
+Due to the TTC have custom engine - Starlite,maybe will be two versions:
+1. Original TTC but with backend emulation, online with local internet and global (idk,maybe I won't host server for online with global internet,but I will upload software for emulation and starting your own server
+2. TTC but remade with other engine but with original assets. Maybe I won't do this version,but I can try.
+
+</details>
+
+<details>
+<summary>UPD2.5</summary>
+Soon,I will start developing,alreade searching for team. When I will start, there will be UPD3,but that I was doing before was just research.
+
                           
-## Эмуляция БэкЭнда для Говорящий Том: Водная битва (Русский перевод):
+## Эмуляция Бэкэнда для Говорящий Том: Водная битва (Русский перевод):
 
 > Я незнаю получится ли мне это сделать или нет,но я попробую.
 
@@ -27,11 +38,19 @@ I have some good and bad news. Good news: now I know TTC urls,and even made a st
  
 <details>
 <summary>АПД2</summary>
-Я придумал структуру как всё будет. Будет закрытая версия и открытая версия. Открытая (опенсурс): чисто эмулятор,без полноценного "онлайна",только по локальной сети. Закрытая (клоседсурс): будет полоценной,apk файл и ipa на iphone (про ipa подумаю,может быть порта не будет). С apk файла будет устанавливаться лаунчер. Он скачает ассеты для модификации (эмулятор,модификатор игры). Трафик будет идти через i2p (если вы знаете что это и примерно знаете Outfit7 вы поймете). В данной версии будет поддержка полного онлайна (буду возможно хостировать сервер на своем пк) и будут обновления самой игры (если будет хватать времени и смогу).
+Короче,связи с тем что движок здесь кастомный - Starlite, будет возможно две версии:
+1. Исходная игра но с эмуляцией бэкэнда,онлайн по локалке и по сети (прям по сети конечно возможно, я возможно не буду хостировать но выложу ПО для эмуляции и поднятия своего сервера).
+2. Игра переделанная на другой движок но с исходными ассетами. Возможно такой версии не будет,но можно впринципе сделать.
+  
+</details>
+
+<details>
+<summary>АПД2.5</summary>
+Скоро начну разработку,уже ищу тиму. Когда начну будет АПД3. Но то что я делал до этого это чисто исследование.
 
 </details>
 
-> ЕСЛИ ЧЕСТНО: Я незнаю кто будет играть,фандом уже распался вроде,игра старая (ну уже 6 лет с закрытия прошло) а мои руки только сейчас добрались. Только... Мне бы желательно команду для реверс инжиниринга,в одиночку не потяну.
+> ЕСЛИ ЧЕСТНО: Я незнаю кто будет играть,фандом уже распался вроде,игра старая (ну уже 6 лет с закрытия прошло) а мои руки только сейчас добрались.
 
  TG/ТГ: @ianesnaychtotytnapisat
                           
