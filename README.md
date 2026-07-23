@@ -39,6 +39,7 @@ Soon,I will start developing,alreade searching for team. When I will start, ther
 Есть хорошая и плохая новость. Хорошая - я пофиксил "login failed" "сообщение" ,и я впринципе знаю урл-ки. Плохая - теперь другое "сообщение" : "CONNECTION ERROR"
 
 </details>
+
  
 <details>
 <summary>АПД2</summary>
@@ -47,6 +48,7 @@ Soon,I will start developing,alreade searching for team. When I will start, ther
 2. Игра переделанная на другой движок но с исходными ассетами. Возможно такой версии не будет,но можно впринципе сделать.
   
 </details>
+
 
 <details>
 <summary>АПД2.5</summary>
