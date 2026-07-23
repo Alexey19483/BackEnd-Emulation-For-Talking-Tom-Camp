@@ -23,6 +23,7 @@ Due to the TTC have custom engine - Starlite,maybe will be two versions:
 <details>
 <summary>UPD2.5</summary>
 Soon,I will start developing,already searching for team. When I will start, there will be UPD3,but that I was doing before was just research.
+<details>
 
 
                           
@@ -54,6 +55,7 @@ Soon,I will start developing,already searching for team. When I will start, ther
 Скоро начну разработку,уже ищу тиму. Когда начну будет АПД3. Но то что я делал до этого это чисто исследование.
 
 </details>
+
 
 > ЕСЛИ ЧЕСТНО: Я незнаю кто будет играть,фандом уже распался вроде,игра старая (ну уже 6 лет с закрытия прошло) а мои руки только сейчас добрались.
 
