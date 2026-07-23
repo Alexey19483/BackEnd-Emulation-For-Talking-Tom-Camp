@@ -10,6 +10,7 @@ I have some good and bad news. Good news: now I know TTC urls,and even made a st
 
 </details>
 
+
 <details>
 <summary>UPD2</summary>
 Due to the TTC have custom engine - Starlite,maybe will be two versions:
@@ -18,10 +19,12 @@ Due to the TTC have custom engine - Starlite,maybe will be two versions:
 
 </details>
 
+
 <details>
 <summary>UPD2.5</summary>
 Soon,I will start developing,alreade searching for team. When I will start, there will be UPD3,but that I was doing before was just research.
 
+<details>
                           
 ## Эмуляция Бэкэнда для Говорящий Том: Водная битва (Русский перевод):
 
